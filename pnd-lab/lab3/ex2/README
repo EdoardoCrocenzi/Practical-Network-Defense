@@ -1,3 +1,7 @@
+**DISCLAIMER (ADDED BY THE CREATOR OF THE M1 MAC REPOSITORY**
+Bettercap is installed by using a .deb file instead of using a zip. Therefore, once you open the lab, the program should work without doing anything.
+**
+
 A lan with a host, a server, a router and the attacker machine.
 In the attacker machine you have to install bettercap and perform
 a MITM attack. Bettercap does this with the ARP poisoning
