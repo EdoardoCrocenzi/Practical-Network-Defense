@@ -1,3 +1,7 @@
+** DISCLAIMER FOR THOSE WHO ARE USING THE M1 REPOSITORY**
+In order to work, in the lab slied is written that you have to tag the docker image kathara/quagga. The tag on the slide will be different from the tag that is on your docker. Just use your image tag and execute the same comand. In this way it will work.
+**
+
 Two hosts connected to two different wans. You have to configure IPsec
 between the two hosts.
 They have the the following IPv4 scheme:
