@@ -1,4 +1,6 @@
 ip addr add 100.90.0.100/16 dev eth0
 ip route add default via 100.90.0.1
 
-dpkg -i /shared/*.deb
+dpkg -i /shared/libssl1.1_1.1.1n-0+deb11u3_arm64.deb
+dpkg -i /shared/ipsec-tools_0.8.2+20140711-10build1_arm64.deb
+dpkg -i /shared/racoon_0.8.2+20140711-10build1_arm64.deb
